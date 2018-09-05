@@ -1,0 +1,65 @@
+
+body {
+  background-color: black !important;
+}
+
+
+.spacer {
+    margin-top: 40px; /* define margin as you see fit */
+}
+
+
+
+
+/*
+.skinnynav{
+	list-style-type: none;
+	margin: 0;
+	overflow: hidden;
+  padding: 15px;
+  width: 150px;
+  z-index: 100;
+  position: fixed;
+  background: red;
+  right: 0px;
+}
+
+
+
+
+.skinnynav li a
+{
+	display: block;
+}
+
+#skinnynav li a:hover{
+
+	color: #955a5a;
+	background-color: grey;
+}
+
+
+
+li a:hover:not(.active) {
+    background-color: #111;
+}
+*/
+
+.imagefloat{
+  z-index: 200;
+  top: 40%;
+  position: absolute;
+  border: 0;
+  max-width: 100;
+  height: auto;
+  width: 700px
+
+
+
+}
+
+
+.carousel-inner
+{
+  width: auto;
+}
